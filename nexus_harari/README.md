@@ -1,0 +1,2 @@
+ # Nexus: A Brief History of Information Networks from the Stone Age to AI 
+ For the last 100,000 years, we Sapiens have accumulated enormous power. But despite all our discoveries, inventions, and conquests, we now find ourselves in an existential crisis. The world is on the verge of ecological collapse. Misinformation abounds. And we are rushing headlong into the age of AI--a new information network that threatens to annihilate us. For all that we have accomplished, why are we so self-destructive? 
